@@ -4,7 +4,7 @@ int main()
 {
   int a=5;
   int b=10;
-  cout<<"a and b of mult is "<<a*b;        
+  cout<<"a and b of multiplication is "<<a*b;        
           
     return 0;
 }
